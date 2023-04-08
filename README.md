@@ -1,2 +1,3 @@
-# Take Home Flip Card
+# Flip Card
 
+Take home assignment
